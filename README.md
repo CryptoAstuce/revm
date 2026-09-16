@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente le moteur EVM revm, son contexte, son pipeline d’exécution, son journal d’état, ses précompilés et ses points d’extension. Voir [docs/fr/README.md](docs/fr/README.md).
+
 ### Revm
 
 [![CI](https://github.com/bluealloy/revm/actions/workflows/ci.yml/badge.svg)][gh-ci]
